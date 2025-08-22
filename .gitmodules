@@ -1,0 +1,3 @@
+[submodule "discord-mern-starter"]
+	path = discord-mern-starter
+	url = https://github.com/CSEndeavour/Discord-Clone.git
